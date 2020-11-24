@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/C++/ComputerReserve/GlobalFile.h
+
+/mnt/d/C++/ComputerReserve/OrderFile.cpp
+OrderFile.h
+/mnt/d/C++/ComputerReserve/OrderFile.h
+
+/mnt/d/C++/ComputerReserve/OrderFile.h
+iostream
+-
+map
+-
+fstream
+-
+GlobalFile.h
+/mnt/d/C++/ComputerReserve/GlobalFile.h
+

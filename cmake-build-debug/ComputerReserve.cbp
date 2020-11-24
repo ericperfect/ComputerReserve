@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ComputerReserve"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\examples\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/C++/ComputerReserve/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/C++/ComputerReserve/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/C++/ComputerReserve/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputerReserve">
+				<Option output="/mnt/d/C++/ComputerReserve/cmake-build-debug/libComputerReserve.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/C++/ComputerReserve/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 ComputerReserve"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputerReserve/fast">
+				<Option output="/mnt/d/C++/ComputerReserve/cmake-build-debug/libComputerReserve.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/C++/ComputerReserve/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 ComputerReserve/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/C++/ComputerReserve/cmake-build-debug/examples"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/C++/ComputerReserve/examples/.."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/C++/ComputerReserve/cmake-build-debug/examples"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/C++/ComputerReserve/examples/.."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/C++/ComputerReserve/ComputerRoom.h">
+			<Option target="ComputerReserve"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/GlobalFile.h">
+			<Option target="ComputerReserve"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/Identity.h">
+			<Option target="ComputerReserve"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/Manager.cpp">
+			<Option target="ComputerReserve"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/Manager.h">
+			<Option target="ComputerReserve"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/OrderFile.cpp">
+			<Option target="ComputerReserve"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/OrderFile.h">
+			<Option target="ComputerReserve"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/Student.cpp">
+			<Option target="ComputerReserve"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/Student.h">
+			<Option target="ComputerReserve"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/Teacher.cpp">
+			<Option target="ComputerReserve"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/Teacher.h">
+			<Option target="ComputerReserve"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/examples/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/d/C++/ComputerReserve/examples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,6 @@
+/mnt/d/C++/ComputerReserve/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/C++/ComputerReserve/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/C++/ComputerReserve/cmake-build-debug/CMakeFiles/ComputerReserve.dir
+/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/CMakeFiles/rebuild_cache.dir
+/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/CMakeFiles/edit_cache.dir
+/mnt/d/C++/ComputerReserve/cmake-build-debug/examples/CMakeFiles/main.dir

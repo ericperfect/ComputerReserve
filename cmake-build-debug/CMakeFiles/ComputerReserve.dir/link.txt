@@ -1,0 +1,2 @@
+/usr/bin/ar qc libComputerReserve.a  CMakeFiles/ComputerReserve.dir/Student.cpp.o CMakeFiles/ComputerReserve.dir/Teacher.cpp.o CMakeFiles/ComputerReserve.dir/Manager.cpp.o CMakeFiles/ComputerReserve.dir/OrderFile.cpp.o
+/usr/bin/ranlib libComputerReserve.a
